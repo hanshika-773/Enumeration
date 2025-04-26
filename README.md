@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ec55f7ea-8750-48c2-b648-0ab8c48f8752)# Enumeration
+# Enumeration
 Enumeration Techniques
 
 # Explore Google hacking and enumeration 
