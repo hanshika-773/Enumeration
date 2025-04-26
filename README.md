@@ -1,4 +1,4 @@
-# Enumeration
+![image](https://github.com/user-attachments/assets/ec55f7ea-8750-48c2-b648-0ab8c48f8752)# Enumeration
 Enumeration Techniques
 
 # Explore Google hacking and enumeration 
@@ -106,7 +106,36 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
+### site:example.com
+![Screenshot 2025-04-26 062544](https://github.com/user-attachments/assets/292b8490-b899-4867-aa4c-146b0ad0dce1)
+### filetype:pdf
+![Screenshot 2025-04-26 062559](https://github.com/user-attachments/assets/122448cf-c8a8-44a5-8eab-d340670f5fd7)
+### intext:password
+![Screenshot 2025-04-26 062610](https://github.com/user-attachments/assets/41fac2d7-9457-41df-87e4-0ab6d94d641a)
+### inurl:admin
+![Screenshot 2025-04-26 062621](https://github.com/user-attachments/assets/5bc7f252-3d56-415b-bf58-dc1b022b30e9)
+### intitle:index of
+![Screenshot 2025-04-26 062633](https://github.com/user-attachments/assets/9f4e5aca-3fa7-4aaf-91c3-9f4445d29856)
+### link:example.com
+![Screenshot 2025-04-26 062643](https://github.com/user-attachments/assets/79ae0ff4-a103-42fa-b5ef-a1525cd191e7)
+### cache:example.com
+![Screenshot 2025-04-26 062653](https://github.com/user-attachments/assets/b952d195-6ef8-4305-ae19-60194d6ca036)
+## DNS Enmueration
+### DNS Recon
+![Screenshot 2025-04-26 063043](https://github.com/user-attachments/assets/ab5b6559-6632-48ed-9dca-efca62885945)
 
+### dnsenum
+![Screenshot 2025-04-26 063057](https://github.com/user-attachments/assets/fdff18fd-8768-4417-a432-cdebe58d760d)
+
+### smtp-user-enum
+![Screenshot 2025-04-26 063109](https://github.com/user-attachments/assets/6cc6f9f7-83c4-4a7e-a447-1920860a5be9)
+![Screenshot 2025-04-26 063122](https://github.com/user-attachments/assets/14efc5a4-e5dc-4589-b808-fdabdf6e456a)
+
+### Telnet for smpt enumeration
+![Screenshot 2025-04-26 063133](https://github.com/user-attachments/assets/799b145d-2824-450f-aac1-14df5e90506b)
+
+### nmap-script smtp-enum-user.nse
+![Screenshot 2025-04-26 063139](https://github.com/user-attachments/assets/a2ed28c9-93aa-44c4-8f1a-27bf100a7556)
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
